@@ -1,6 +1,6 @@
 # 💫About Me :
 
-I am a Software Engineer from Chile with a strong technical background, i´m enjoyining every day working with people by creating software that helps people.
+I am a Full Stack Software Engineer from Chile with a strong technical background, i'm enjoying everyday making software that helps people.
 
 I have a passion for programming and video games and I am on continuing studying to get better in what I do.
 
@@ -14,6 +14,6 @@ I have a passion for programming and video games and I am on continuing studying
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=TitoSaavedra&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TitoSaavedra&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TitoSaavedra&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TitoSaavedra&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
