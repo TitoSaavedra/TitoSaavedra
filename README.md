@@ -1,7 +1,6 @@
-# 💫About Me :
+# 💫About Me
 
-I am a Full Stack Software Engineer from Chile with a strong technical background.
-I have a passion for programming and video games and I am on continuing studying to get better in what I do.
+I am a Full Stack Software Engineer from Chile. 
 
 # 💻Tech Stack
 
